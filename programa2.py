@@ -1,1 +1,1 @@
-print("Programa 2 practica 1 version 1")
+print("Programa 2 practica 1 version 2 desde Lyz")
